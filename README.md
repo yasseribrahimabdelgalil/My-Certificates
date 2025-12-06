@@ -19,6 +19,10 @@ My learning journey helped me build strong skills in:
 
 📈 Data Cleaning, Visualization, and Storytelling
 
+Markdowen
+IBM Data Analyst Capstone Project
+
+https://coursera-assessments.s3.amazonaws.com/assessments/1762284969712/c2a93d18-7a11-4e6c-9e2d-85d065cafeb1/DataAnalystPresentation%20%281%29%20%28Yasser%29.pdf.pdf
 
 
 ---
